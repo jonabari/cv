@@ -1,0 +1,1486 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="3">
+
+  <Content>
+    <Paragraph Type="Action">
+      <Text>
+La troca pasa por las afueras de un pueblo construido alrededor de lo que antes era un oasis, pero que ahora es solo un pequeño charco al centro de un hueco en la tierra.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SamIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No estoy molesta, ¿sabes? Solo me gustaría que pusieras más atención.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ILENA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sí mamá.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A pesar de todo el trabajo que hizo Samira, la troca está en muy malas condiciones; flota de manera torpe e irregular.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Se dirigen hacia una granja de </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">jackalopes</Text>
+      <Text> (conejos con cuernos de venado). Un par de ellos pelean chocando los cuernos al lado del camino. Otro sigue la troca al pasar.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANUNCIADOR"></CharacterArcBeat>
+          <CharacterArcBeat Name="ILENA"></CharacterArcBeat>
+          <CharacterArcBeat Name="SAMIRA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>InT. GranERO -- NOCHE</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 5/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANUNCIADOR"></CharacterArcBeat>
+          <CharacterArcBeat Name="ILENA"></CharacterArcBeat>
+          <CharacterArcBeat Name="SAMIRA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. cuarto de ilena -- Noche</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ilena cierra la puerta, exhausta. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SamIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>¡Estaré en el granero!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>IlenA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>¡Te alcanzo!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>El cuarto de Ilena es un espacio polvoroso, con muebles improvisados, hechos de cajas y lo que sobró de la troca.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>IlENA (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Por fin.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Un reloj mecánico indescifrable avanza con un CLICK. Esto alerta a Ilena. Corre hacia su escritorio junto a la ventana.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ILENA (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>¡Ya es hora!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Hay una antena sobre el escritorio que apunta hacia afuera. Ilena la conecta a su grabadora y se pone sus audífonos.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Al principio solo se escucha ruido blanco, pero Ilena ajusta el sintonizador hasta encontrar la señal.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anunciador</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(A través del radio)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Ktzzchkk</Text>
+      <Text>-- </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ilena saca el guión en su cuaderno y acomoda su micrófono. Toma una gran suspiro. Está lista. Ya puede grabar. </Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <DualDialogue>
+        <Paragraph Type="Character">
+          <Text>ILENA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+          <Text>Bitá--</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+          <Text>Anunciador (CONT'D)</Text>
+        </Paragraph>
+        <Paragraph Type="Parenthetical">
+          <Text>(A través del radio)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+          <Text>--Ktzzchkk-- A su costado...</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ilena se detiene. Hay alguien transmitiendo.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anunciador (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(A través del radio)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>... podemos ver la estrella más brillante...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ilena voltea hacia su reloj y le da un golpe. El reloj cambia repentinamente. Se detiene, revelando la hora real. </Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <DualDialogue>
+        <Paragraph Type="Character">
+          <Text>ILENA</Text>
+        </Paragraph>
+        <Paragraph Type="Parenthetical">
+          <Text>(A sí misma)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+          <Text>Ya es tarde. Me lo perdí.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+          <Text>ANUNCIADOR (CONT'D)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+          <Text>... Es aquella que emana un brillo azul pálido, como la luna. Como verán...</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ilena se deja caer sobre su cama de paja, derrotada.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANUNCIADOR (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>... Esta estrella nos ha engañado. En realidad, ni siquiera es una estrella. ¡Es un planeta! Pero no le guardemos rencor. Puede ser nuestro amigo; nuestro guía. Este gran pequeño planeta nos podrá indicar el lado norte de nuestros cosmos durante treinta noches, a partir de hoy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ilena suspira y cierra sus ojos. Al menos puede descansar.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANUNCIADOR (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Viajemos entonces hacia el sur.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>El programa inicia una transición musical tocada con instrumentos de cuerdas acompañadas por percusiones en cajón.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SaMIRA (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>¡Ilena! ¿Me ayudas?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ilena abre los ojos, incrédula.</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <DualDialogue>
+        <Paragraph Type="Character">
+          <Text>ILENA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+          <Text>¡Vooooooy!</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+          <Text>ANUNCIADOR</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+          <Text>Del otro lado del cosmos...</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Pero no se levanta.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="7 2/8" Page="3" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ILENA"></CharacterArcBeat>
+          <CharacterArcBeat Name="LíDER 1"></CharacterArcBeat>
+          <CharacterArcBeat Name="LíDER 2"></CharacterArcBeat>
+          <CharacterArcBeat Name="SAMIRA"></CharacterArcBeat>
+          <CharacterArcBeat Name="TEO"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Granero -- noche</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Samira usa unas pinzas gigantes para doblar unas barras de metal y formar anillos de cadena. Tiene que calentarla regularmente con un soldador para mantenerla maleable.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>El metal tiene el mismo brillo iridiscente de antes, solo que este metal es aún más brillante. Así se ve cuando es nuevo.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Curiosamente, hay otras barras de metal en el otro lado de la mesa que no tienen brillo alguno. Parecen ser metal normal.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">¡Ile</Text>
+      <Text>! ¡Porfa!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Samira está intentando hacer demasiadas cosas al mismo tiempo; sostiene la cadena con una mano, y sus pinzas con la otra. Intenta ajustar su candil para ver mejor. Lo tumba.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Una flama crece a lo largo de la mesa, en dirección del tanque de gas que está conectado al soldador.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>¡Ilena! ¡Fuego! ¡Trae otro costal de arena! ¡Rápido!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Samira corre hacia un estante, donde hay una cobija pesada, entre otras herramientas.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ilena se prepara para arrojar la cobija sobre la llama, pero un hombre la extingue primero con un enorme tarro de cerveza que derrama sobre la mesa. Este es TEO (40s), el apuesto y bien-vestido dueño de la granja, y alcalde del pueblo.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Teo</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Pensé que ibas a traer agua, no incendiar mi granero.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>¡Teo! Lo siento. Fue un... Accidente.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Teo voltea a ver todos los demás muebles con quemaduras en todo el granero. Le regresa la mirada a Samira.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Bueno, otro accidente. No volverá a suceder. Lo prometo.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Teo divide su otra cerveza entre los dos tarros.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Teo</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No te preocupes. Entiendo que son los riesgos del oficio... ¿Gustas?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Le ofrece medio tarro de cerveza a Samira, a quien a penas le está cayendo el veinte de que lo que ve es una cerveza.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>¿Eso es...?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sí.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>¿Cómo? ¿Con qué agua?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Con ninguna. Es de la reserva familiar.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>¿De tantos años? ¿Cómo no se te echó a perder?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Teo le tira un guiño y le pasa la cerveza.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Secreto familiar.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Samira toma el tarro. Lo admira de cerca, como si fuera un espécimen que debería de ser analizado en un laboratorio.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>¿Sabes? Jamás la he probado.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>¿En serio? Pero si es típica de la región.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Era.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Samira pierde los rastros de su hilo de pensamientos, parece haber resucitado alguna vieja y dolorosa memoria.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Y yo que te pintaba de optimista.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Samira ríe, esto la saca de su trance. Teo levanta su tarro.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEO (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Brindemos... Por regresar al orden natural.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Samira lo observa sin entender, hasta que se da cuenta de que debe de imitarlo y levanta su tarro también. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Samira</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Por... Eso que dijiste.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Chocan sus tarros. Teo le da un buen trago a su cerveza.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Samira termina la suya de un trago y azota su tarro sobre la mesa. Luego se da cuenta de que Teo la mira, asombrado. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>L-- ¿Lo hice mal? ¿Cómo era? Hay que levantar el meñique, ¿no? Lo siento. No es por </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">ofe</Text>
+      <Text>--</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEO</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Conteniendo una risita)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>--No, no. Es solo que... Me alegra que estés aquí. Llegas en un momento muy oportuno para nosotros.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Samira mueve sus manos nerviosamente. Teo deja su tarro sobre la mesa y se apoya sobre ella. Sus dedos danzan entre sí.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ja... Me dices a mí. Llevábamos meses sin encontrar asilo.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>¿Asilo? ¿Así de feo?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Bueno, más bien... ¿Sin que nos vieran de locas? O, no lo sé. Es difícil describirlo más allá de que... Ha sido un largo camino.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Sin pensarlo, Samira también se apoyó sobre la mesa.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ya lo creo... Somos pocos los que tenemos qué aportar estos días.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Teo le da otro trago a su cerveza. Cuando regresa su tarro a la mesa, su mano se coloca un más cerca de Samira que antes. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>¿Y por qué?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>La mano de Samira es más tímida con sus intenciones.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Por qué, ¿qué?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>¿Por qué nos ayudan ustedes? Somos dos bocas más. No los culparía por pedirnos pasar y nada más, pero... Al contrario, nos dieron todo lo que necesitamos. Y más. Mucho más.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Porque... Creo en tu proyecto. Es realmente brillante.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>¿Brillante? Je. ¿Tú crees?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yo lo sé. Si las nubes no vienen a nosotros, nosotros iremos por ellas. ¿Cómo no se me ocurrió antes?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Sus dedos más atrevidos ya casi se encuentran.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Bueno, en realidad no es tan </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">simp</Text>
+      <Text>--</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Los interrumpe el PAF de un costal de arena chocando contra el piso. Es Ilena. Llegó corriendo y se le resbaló el costal. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ilena</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Perdón... ¿Pediste arena?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Teo y Samira se dan cuenta de lo cerca que están uno del otro. Cada uno da un paso hacia atrás, disimulando calma.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Teo</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Creo que ya extinguimos la flama. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>La campana de la torre de vigilancia suena a la distancia.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Teo (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Diablos.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>IlENA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>¿Qué? ¿Qué pasa?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Merodeadores. Rápido, apaguen todo.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Samira e Ilena corren a apagar las lámparas de aceite que cuelgan alrededor del granero, y a cerrar las ventanas. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mientras tanto, Teo corre a cerrar las puertas. Antes de cerrarlas por completo, alcanza a ver que hay una pandilla de merodeadores acercándose a las orillas del pueblo. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Teo cierra la puerta. El granero queda a oscuras, excepto por la iluminación que da la luz de la Luna por el tragaluz, y el brillo iridiscente de las cadenas que Samira construía.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEO (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>¿Qué es eso?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ILENA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Son--</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>--Un secreto familiar.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Samira las cubre con la cobija que había traído a la mesa.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Las campanas dejan de sonar. Teo señala que deben de guardar silencio. Samira e Ilena asientan con la cabeza.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Unos segundos después, escuchan el sonido de una caracola. La acompañan</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>------</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>-----------</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>¿Cómo? ¿Las atacaron?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ilena toma pan de una canasta sobre la mesa.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>¿Qué? No. Tuvimos un... Accidente.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A Ilena se le resbala el pedazo de pan.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Pues... Intentemos de nuevo.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Samira toma el pan antes de que Ilena lo alcance.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Coincido. El viento sopla hacia el sur. Busquemos hacia allá.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Samira parte el pan en dos y coloca una mitad sobre unas montañas en la parte sur del mapa.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Bien. Podrán partir a primera hora.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Quisiera, pero </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Rogelia</Text>
+      <Text> está mal.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">¿Rogelia</Text>
+      <Text>?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>IlENA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>La </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">troca</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Samira le da otro trago a su cerveza. Está entrando en su modo de concentración súper intenso.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAMIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>También necesitamos abasto de cristales para cargar el equipo.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Samira coloca la otra mitad del pan sobre unas cuevas ubicadas hacia el oeste en el mapa.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ILENA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Son tres días, fácil.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>¿Tanto?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ilena toma el pan sobre las cuevas. Lo muerde.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SaMIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Aprox</Text>
+      <Text>. Sí. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Debe de haber una manera de </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">agili</Text>
+      <Text>--</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Suena una sirena por todo el pueblo. Es un sistema de alarma.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>-----------------</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>E) EXT. PUEBLO JUNTA A UN LAGO -- DÍA</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Un anciano arrogante, LÍDER 1, habla como en una entrevista.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Líder 1</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>La lluvia regresará. El mundo solo está pasando por un periodo de... transición. Pronto volveremos a la normalidad.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>El pueblo está alrededor de una estatua en medio de lo que antes era un gran lago, pero que ahora contiene poca agua y barcos abandonados (algo parecido a </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Janitzio</Text>
+      <Text>, Michoacán).</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>IlENA (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Pero ese “pronto” nunca llegó... Y, en su ausencia, la ansiedad de la gente se transformó en ira dirigida hacia nada en particular.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>F) EXT. PUEBLO JUNTA A UN LAGO -- NOCHE</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>La GENTE se rebela, saqueando e incendiando todo lo que ven.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LíDER 2 (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>La diferencia es que nosotros somos gente civilizada.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>G) EXT. PUEBLO JUNTO A UN RÍO -- DÍA</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>En realidad es un riachuelo junto a un bosque moribundo.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>LÍDER 2 es una anciana con ropas elegantes. La rodean sus SÚBDITOS que visten ropa mucho más humilde.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LíDER 2</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Entendemos que esto es un castigo divino y que, en la penitencia, encontraremos la salvación.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A su costado hay PERSONAS CAUTIVAS atrapadas EN CEPOS DE MADERA. Los súbditos les arrojan vegetales podridos.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>H) INT. GENERADOR DE UNA PRESA -- DÍA</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>El generador está compuesto de engranes gigantes que giran gracias al poder que les dan a una serie de cascadas. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>IlENA (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sin embargo, la salvación tampoco llegó a sus puertas. En su lugar llegaron más carencias.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Las cascadas dejan de fluir. Los engranes se detienen. Líder 2 observa esto desde una plataforma. Sus súbditos la miran con ojos decepcionados y sed de venganza.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>I) EXT. PUEBLO JUNTO A UNA PRESA -- DÍA</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>El pueblo está en ruinas; la presa está completamente seca. Los habitantes emigran en una caravana, mientras que LÍDER 3 corre detrás de ellos, suplicándoles que no se vayan.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>IlENA (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Para muchos, la situación se volvió insoportable. Sin agua no hay vida. Algo tendría que cambiar.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Entre la migración de las caravanas hay dos NIÑAS HUÉRFANAS (7), SAMIRA y FARAH. Es importante llamar la atención a este detalle, aunque no será evidente para la audiencia (ni debería de serlo en este momento de la historia).</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>J) EXT. OCÉANO -- DÍA</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>La caravana avanza por la costa de un océano entre unas montañas. Las montañas están descoloridas en diferentes niveles, porque el agua antes llegaba más arriba.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ILENA (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Fue así que comenzó la era de la gran migración... siempre en búsqueda de algo mejor.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Más adelante hay otra caravana que pertenece al pueblo del río, evidenciado por sus ropas y estilo de vehículos que son distintos a los del pueblo de la presa. Una tercer (distinta) caravana avanza en la distancia (la gente del lago).</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>TRANSICIÓN A:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="5/8" Page="10" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ILENA"></CharacterArcBeat>
+          <CharacterArcBeat Name="SAMIRA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. DESIERTO -- NOCHE</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>El océano se seca por completo, dejando en su lugar un desierto lleno de conchas de mar y coral seco gigantes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ILENA (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Algo... Algo--- Oye ma.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>La troca de Samira e Ilena continua su torpe avance.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>-----------</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>La troca pasa por las afueras de un pueblo construido alrededor de lo que antes era un oasis, pero que ahora es solo un pequeño charco al centro de un hueco en la tierra.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SamIRA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No estoy molesta, ¿sabes? Solo me gustaría que pusieras más atención.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ILENA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sí mamá.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A pesar de todo el trabajo que hizo Samira, la troca está en muy malas condiciones; flota de manera torpe e irregular.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Se dirigen hacia una granja de </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">jackalopes</Text>
+      <Text> (conejos con cuernos de venado). Un par de ellos pelean chocando los cuernos al lado del camino. Otro sigue la troca al pasar.</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel Type="Last Revised"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="1050" Left="0" Mode="Normal" Top="0" Width="1680"/>
+
+  <TextState Scaling="100" Selection="11996,11996" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+        </Paragraph>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Script Title</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Written by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Name of First Writer</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Based on, If Any</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Address</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Phone Number</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <UnanchoredScriptNotes/>
+
+  <SmartType>
+    <Characters/>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(CONT'D)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+    </SceneIntros>
+    <Locations/>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowAllMarks="No" ShowAllSets="No" ShowPageColor="No">
+    <Revision Color="#000000000000" FullRevision="No" ID="1" Mark="*" Name="Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" SplitMode="None" SplitterPosition="0">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Verdana" RevisionID="0" Size="9" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#FFFFFFFFFFFF" Name="ANUNCIADOR" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="ILENA" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="LíDER 1" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="LíDER 2" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="SAMIRA" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="TEO" Visible="No"/>
+  </CharacterHighlighting>
+
+  <CharacterNavigatorPreferences IsSortAscending="Yes" SortColumn="Order"/>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="55" ScrollOrigin="0,0" Type="StoryMap" Width="2032" ZoomLevel="100.000"/>
+    <DisplayBoard Height="10000" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+  </DisplayBoards>
+
+</FinalDraft>
